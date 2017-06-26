@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT40M34.3889045S" SolutionTotalViewTime="PT31M55.9319239S" SolutionTotalDebugTime="PT11M16.0780951S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT11M16.0745521S" EditActiveTime="PT12M49.4033887S">
+      <ModifiedDate>2017-05-17T10:57:05.4996631+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-17T10:28:07.4179952+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M55.3680153S" EditActiveTime="PT14M57.4762899S">
+      <ModifiedDate>2017-05-17T10:44:11.3746032+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.vcxproj</ProjectName>
+      <CreatedDate>2017-05-17T09:42:37.5587733+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT11M16.0745521S" EditActiveTime="PT12M49.4033887S">
+      <ModifiedDate>2017-05-17T10:57:05.4996631+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-17T10:28:07.4179952+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT31M55.9434767S" EditActiveTime="PT40M34.3788517S">
+      <ModifiedDate>2017-05-17T10:44:11.3746032+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.vcxproj</ProjectName>
+      <CreatedDate>2017-05-15T12:20:37.3075335+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT11M16.0745521S" EditActiveTime="PT12M49.4033887S">
+      <ModifiedDate>2017-05-17T10:57:05.4996631+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-17T10:28:07.4179952+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M55.3650254S" EditActiveTime="PT14M57.4762899S">
+      <ModifiedDate>2017-05-17T10:44:11.3746032+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.vcxproj</ProjectName>
+      <CreatedDate>2017-05-17T09:42:37.5587733+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M22.6998983S" EditActiveTime="PT23M57.24373S">
+      <ModifiedDate>2017-05-15T14:33:06.1834195+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.vcxproj</ProjectName>
+      <CreatedDate>2017-05-15T13:06:07.0590235+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M37.8795332S" EditActiveTime="PT1M39.6588318S">
+      <ModifiedDate>2017-05-15T12:37:59.6829947+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 3\PizzaToppings\PizzaToppings\PizzaToppings.vcxproj</ProjectName>
+      <CreatedDate>2017-05-15T12:20:37.3075335+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
